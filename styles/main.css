@@ -29,8 +29,7 @@ b,
 strong,
 h3,
 h4,
-h5,
-h6 {
+h5 {
   font-variation-settings: 'wght' 650;
 }
 h1 {
@@ -38,6 +37,9 @@ h1 {
 }
 h2 {
   font-variation-settings: 'wght' 750;
+}
+h6{
+  color: black;
 }
 
 @media screen and (min-device-pixel-ratio: 1.5),
@@ -63,3 +65,8 @@ img.next-image {
 .nav-line .nav-link {
   color: #69778c;
 }
+
+.hiddenlink{
+  color: #69778c;
+}
+
