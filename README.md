@@ -1,1 +1,2 @@
-For CTF purposes
+# Findthegrind Webapp
+For Find IT! CTF purposes
